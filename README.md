@@ -1,4 +1,4 @@
-# JavaScript-Arrays Challange to build Quiz
+# JavaScript-Arrays Challenge to build Quiz
 
 ## How to run it?
 
